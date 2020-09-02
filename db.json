@@ -10,5 +10,20 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "assists": [
+    {
+      clientID: "100231",
+      clientName: "Jose Gerardo Capistrán Fernandez",
+      clientStatus: 0,
+      clientDiscount: "$" + 100.0,
+      clientComments: "El cliente ya cuenta con un servicio similar."
+    },{
+      clientID: "103424",
+      clientName: "Andrea Marisol Reyes Cibrian",
+      clientStatus: 1,
+      clientDiscount: "$" + 100.0,
+      clientComments: "El cliente desea mantenerlo activo 3 meses."
+    },
+  ]
 }
