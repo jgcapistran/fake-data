@@ -13,12 +13,21 @@
   },
     "assists": [
       {
+        "creditID": "109345",
         "clientID": "100231",
         "clientName": "Jose Gerardo Capistrán Fernandez",
         "clientStatus": 0,
         "clientDiscount": "300.0",
         "clientComments": "El cliente ya cuenta con un servicio similar."
       },{
+        "creditID": "109027",
+        "clientID": "100231",
+        "clientName": "Jose Gerardo Capistrán Fernandez",
+        "clientStatus": 1,
+        "clientDiscount": "300.0",
+        "clientComments": "El cliente ya cuenta con un servicio similar."
+      },{
+        "creditID": "109024",
         "clientID": "103424",
         "clientName": "Andrea Marisol Reyes Cibrian",
         "clientStatus": 1,
