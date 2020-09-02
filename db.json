@@ -11,7 +11,6 @@
   "profile": {
     "name": "typicode"
   },
-  "assists": {
     "assists": [
       {
         "clientID": "100231",
@@ -27,5 +26,4 @@
         "clientComments": "El cliente desea mantenerlo activo 3 meses."
       }
     ]
-  }
 }
